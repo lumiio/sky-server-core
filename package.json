@@ -1,0 +1,23 @@
+{
+  "name": "sky-server",
+  "version": "1.0.0",
+  "description": "Community server for Sky: Children of the Light (GPL-3.0)",
+  "main": "main.js",
+  "scripts": {
+    "start": "bash start.sh",
+    "http": "node main.js"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@htmonkeyg/tformat": "^1.0.1",
+    "@jsprismarine/brigadier": "^0.14.1",
+    "arg": "^5.0.2",
+    "cron": "^4.4.0",
+    "emldb": "^2.0.0",
+    "fnv1a": "^1.1.1",
+    "long": "^5.3.2",
+    "mqtt": "^5.16.0",
+    "parsenbt-js": "^3.1.3",
+    "ws": "^8.21.3"
+  }
+}

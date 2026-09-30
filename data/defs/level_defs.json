@@ -1,0 +1,504 @@
+{
+  "level_defs": [
+    {
+      "name": "CandleSpace",
+      "bundle": "",
+      "realm": "dawn"
+    },
+    {
+      "name": "Dawn",
+      "bundle": "",
+      "realm": "dawn"
+    },
+    {
+      "name": "StormEvent_VoidSpace",
+      "bundle": "",
+      "realm": "storm"
+    },
+    {
+      "name": "DawnCave",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "Dawn_TrialsWater",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "Dawn_TrialsEarth",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "Dawn_TrialsAir",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "Dawn_TrialsFire",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "MainStreet",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "MainStreetFlyingIntro",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "MainStreet_ShopOutfits",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "MainStreet_ShopSpells",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "MainStreet_ShopProps",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "MainStreet_Apartment",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "MainStreet_Cafe",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "MainStreet_ConcertHall",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "MainStreet_Soundbath",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "MainStreet_Cafe_Wonderland",
+      "bundle": "dawn",
+      "realm": "dawn"
+    },
+    {
+      "name": "Prairie_ButterflyFields",
+      "bundle": "prairie",
+      "realm": "prairie"
+    },
+    {
+      "name": "Prairie_Cave",
+      "bundle": "prairie",
+      "realm": "prairie"
+    },
+    {
+      "name": "Prairie_NestAndKeeper",
+      "bundle": "prairie",
+      "realm": "prairie"
+    },
+    {
+      "name": "Prairie_Island",
+      "bundle": "prairie",
+      "realm": "prairie"
+    },
+    {
+      "name": "Prairie_Village",
+      "bundle": "prairie",
+      "realm": "prairie"
+    },
+    {
+      "name": "Prairie_WildLifePark",
+      "bundle": "prairie",
+      "realm": "prairie"
+    },
+    {
+      "name": "DayHubCave",
+      "bundle": "prairie",
+      "realm": "prairie"
+    },
+    {
+      "name": "DayEnd",
+      "bundle": "prairie",
+      "realm": "prairie"
+    },
+    {
+      "name": "Rain",
+      "bundle": "rain",
+      "realm": "rain"
+    },
+    {
+      "name": "RainForest",
+      "bundle": "rain",
+      "realm": "rain"
+    },
+    {
+      "name": "RainMid",
+      "bundle": "rain",
+      "realm": "rain"
+    },
+    {
+      "name": "RainShelter",
+      "bundle": "rain",
+      "realm": "rain"
+    },
+    {
+      "name": "Rain_BlueBirdTheater",
+      "bundle": "rain",
+      "realm": "rain"
+    },
+    {
+      "name": "Rain_Cave",
+      "bundle": "rain",
+      "realm": "rain"
+    },
+    {
+      "name": "Rain_BaseCamp",
+      "bundle": "rain",
+      "realm": "rain"
+    },
+    {
+      "name": "RainEnd",
+      "bundle": "rain",
+      "realm": "rain"
+    },
+    {
+      "name": "Skyway",
+      "bundle": "rain",
+      "realm": "rain"
+    },
+    {
+      "name": "Sunset",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "SunsetRace",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Sunset_Citadel",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Sunset_FlyRace",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "SunsetEnd",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "SunsetColosseum",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "SunsetEnd2",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "SunsetVillage",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Sunset_Theater",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "SunsetVillage_MusicShop",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Sunset_YetiPark",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Event_Arr_Runaway",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Event_Arr_SoftInside",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Event_Arr_Warrior",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Event_Arr_TheSeed",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Event_Arr_EyesOfAChild",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Event_Arr_ExhaleInhale",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Event_Cinema",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "Event_Personality",
+      "bundle": "sunset",
+      "realm": "sunset"
+    },
+    {
+      "name": "DuskStart",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "Dusk",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "Dusk_Triangle",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "Dusk_TriangleEnd",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "DuskOasis",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "DuskGraveyard",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "Dusk_CrabField",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "DuskMid",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "DuskMid_Past",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "DuskMid_PastMarket",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "Dusk_HiddenTemple",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "DuskEnd",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "DuskEnd_Past",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "Nintendo_CandleSpace",
+      "bundle": "dusk",
+      "realm": "dusk"
+    },
+    {
+      "name": "Night",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "NightArchive",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "TGCOffice",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "VoidSharedSpace",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Event_DaysOfMischief",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Event_DaysOfMischief_Escape",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night2",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "NightEnd",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "NightDesert",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "NightDesert_Planets",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "NightDesert_Beach",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_InfiniteDesert",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_JarCave",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_Shelter",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_IPHallway",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_PaintedWorld",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_ValleyForest",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_ValleyHouse",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_ValleyHouseSky",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Event_DaysOfMoonlight_HugeMoon",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_Jumble",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_Workshop",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Season24Void1",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "Night_StoryBook",
+      "bundle": "night",
+      "realm": "night"
+    },
+    {
+      "name": "StormStart",
+      "bundle": "storm",
+      "realm": "storm"
+    },
+    {
+      "name": "Storm",
+      "bundle": "storm",
+      "realm": "storm"
+    },
+    {
+      "name": "StormEnd",
+      "bundle": "storm",
+      "realm": "storm"
+    },
+    {
+      "name": "OrbitMid",
+      "bundle": "storm",
+      "realm": "storm"
+    },
+    {
+      "name": "OrbitEnd",
+      "bundle": "storm",
+      "realm": "storm"
+    },
+    {
+      "name": "CandleSpaceEnd",
+      "bundle": "storm",
+      "realm": "storm"
+    },
+    {
+      "name": "Credits",
+      "bundle": "storm",
+      "realm": "storm"
+    },
+    {
+      "name": "AR_TestLevel",
+      "bundle": "storm",
+      "realm": "storm"
+    }
+  ]
+}
